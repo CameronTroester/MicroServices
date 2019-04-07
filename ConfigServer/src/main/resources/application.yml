@@ -16,4 +16,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/carolynrehm/config-server.git
+          uri: https://github.com/camerontroester/config-server.git
